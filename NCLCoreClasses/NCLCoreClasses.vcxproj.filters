@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Assets.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\SimpleFont.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureLoader.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureWriter.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Maths.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Plane.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Quaternion.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshAnimation.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshGeometry.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshMaterial.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\RendererBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\ShaderBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\GameTimer.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Keyboard.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Mouse.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Window.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Keyboard.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Mouse.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Window.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Assets.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\SimpleFont.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureLoader.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureWriter.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Maths.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Matrix4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Plane.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Quaternion.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Vector4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshAnimation.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshGeometry.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\MeshMaterial.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\RendererBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\ShaderBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\TextureBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\GameTimer.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Keyboard.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Mouse.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Window.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Keyboard.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Mouse.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\Win32Window.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Matthew\OneDrive - Newcastle University\CSC8503 2022\NCLCoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Asset Handling">
+      <UniqueIdentifier>{D235F38E-6CF7-302E-8898-566FD663CDC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CC860457-3AE1-3D92-ADFB-C83C518C8885}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maths">
+      <UniqueIdentifier>{F015D442-F316-3CCF-B509-5AB80EFFA95E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{EF3D590D-3EA5-326F-8474-331ADAF8CEED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B513781-CF80-390C-8D08-F9796D82EBE8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input">
+      <UniqueIdentifier>{D76FE93B-4545-38EB-A3FB-E2C651427710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input\Win32">
+      <UniqueIdentifier>{50C4709C-9B70-3B89-BDF4-919365933F9B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
