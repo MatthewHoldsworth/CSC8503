@@ -10,12 +10,12 @@ Initial code base supplied from Newcastle University, mostly for handling graohi
 |Collsion Detection|Objects in this engine have collision volumes for capsules, spheres, and cubes. Cube collsion detection is done using Axis Aligned Bounding Boxes|
 
 
-##Controls  
+## Controls  
 G – turn gravity on or off  
 V – turn on spring collision resolution  
 Q – select mode  
 L – lock to selected object to control  
-##Pause Menu  
+## Pause Menu  
 P – pause game  
 Space – un-pause game  
 M – enter option menu  
