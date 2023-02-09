@@ -4,6 +4,7 @@ Submission for CSC8503. Involves a basic physics engine implementation with some
 Initial code base supplied from Newcastle University, mostly for handling graohical representation of the physics engine
 
 |Feature|Description|
+|-------|-----------|
 |State Machines|There are three forms of state machines I have implemented in this project, finite state machine for simple AI agents, behvaiour tree for more advance AI agents, and pushdown automata for the menu systems|
 |Pathfinding|In this project exists the pathfinding algorithm A*, this is used by agents in the game to traverse the maze,  by ranmdomly selecting to naviaget to certain points on the map|
 |Collsion Detection|Objects in this engine have collision volumes for capsules, spheres, and cubes. Cube collsion detection is done using Axis Aligned Bounding Boxes|
