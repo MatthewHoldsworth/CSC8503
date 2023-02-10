@@ -8,7 +8,9 @@ Initial code base supplied from Newcastle University, mostly for handling graohi
 |State Machines|There are three forms of state machines I have implemented in this project, finite state machine for simple AI agents, behvaiour tree for more advance AI agents, and pushdown automata for the menu systems|
 |Pathfinding|In this project exists the pathfinding algorithm A*, this is used by agents in the game to traverse the maze,  by ranmdomly selecting to naviaget to certain points on the map|
 |Collsion Detection|Objects in this engine have collision volumes for capsules, spheres, and cubes. Cube collsion detection is done using Axis Aligned Bounding Boxes|
-
+|Impulse Collission Resolution|Collisions between objects can be handled using an impulse method that uses a objects elasticity coefficient to seperate objects|
+|Spring Collission Resolution|Collisions can aslo be handleed using a constraint-like spring method that resolves the collission over time throught the application of applied acceleration|
+|Networking|While unfinished there is a packet recevier and sender class that is used in a test methohd in Main, as well the game can be connected to a local host|
 
 ## Controls  
 G – turn gravity on or off  
