@@ -9,7 +9,7 @@ Initial code base supplied from Newcastle University, mostly for handling graphi
 |Pathfinding|In this project exists the pathfinding algorithm A*, this is used by agents in the game to traverse the maze, by randomly selecting to navigate to certain points on the map|
 |Collision Detection|Objects in this engine have collision volumes for capsules, spheres, and cubes. Cube collision detection is done using Axis Aligned Bounding Boxes|
 |Impulse Collision Resolution|Collisions between objects can be handled using an impulse method that uses a objects elasticity coefficient to separate objects|
-|Spring Collision Resolution Collisions can also be handled using a constraint-like spring method that resolves the collision over time through the application of applied acceleration|
+|Spring Collision Resolution |Collisions can also be handled using a constraint-like spring method that resolves the collision over time through the application of applied acceleration|
 |Networking|While unfinished there is a packet receiver and sender class that is used in a test method in Main, as well the game can be connected to a local host|
 
 ## Controls  
